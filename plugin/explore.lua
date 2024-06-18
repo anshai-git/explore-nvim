@@ -1,1 +1,1 @@
-print "plugin/example.lua is executed"
+-- print "plugin/example.lua is executed"
